@@ -1,5 +1,5 @@
 ### Hi there 👋
-### :four_leaf_clover:I'm currently learning Kotlin
+### :four_leaf_clover:I'm currently learning android development
 ### :mailbox_closed:You can reach me through: vinayakgupta304@gmail.com
 ### [![@vinayakg09's Holopin board](https://holopin.io/api/user/board?user=vinayakg09)](https://holopin.io/@vinayakg09)
 <!--
