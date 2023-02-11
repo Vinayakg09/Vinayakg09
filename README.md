@@ -1,5 +1,6 @@
-### Hi there 👋
+### 👋 Hi there, I’m Vinayak Gupta
 ### :four_leaf_clover:I'm currently learning android development
+### :revolving_hearts:Looking forward to collobrate in dev stuffs 
 ### :mailbox_closed:You can reach me through: vinayakgupta304@gmail.com
 ### [![@vinayakg09's Holopin board](https://holopin.io/api/user/board?user=vinayakg09)](https://holopin.io/@vinayakg09)
 <!--
