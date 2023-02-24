@@ -13,7 +13,7 @@
 
 |<h3 align="center">Mobile App Development 📱</h3>|
 |:----------------------------------------:|
-| <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Android" width="35" height="35"/>    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Android" width="40" height="40"/></p> | <p align="center"></p> |
+| <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>   </p> | <p align="center"></p> |
 
 
 ### [![@vinayakg09's Holopin board](https://holopin.io/api/user/board?user=vinayakg09)](https://holopin.io/@vinayakg09)
