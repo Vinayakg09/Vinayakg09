@@ -5,6 +5,7 @@
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![FIREBASE](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black)
 
@@ -13,7 +14,7 @@
 
 |<h3 align="center">Mobile App Development 📱</h3>|
 |:----------------------------------------:|
-| <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Android" width="40" height="40"/>  </p> | <p align="center"></p> |
+| <p align="center"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Android" width="40" height="40"/>  </p> | <p align="center"></p> |
 
 
 ### [![@vinayakg09's Holopin board](https://holopin.io/api/user/board?user=vinayakg09)](https://holopin.io/@vinayakg09)
