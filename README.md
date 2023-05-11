@@ -12,11 +12,6 @@
 ![Iterm2](https://img.shields.io/badge/iTerm2-000000.svg?style=for-the-badge&logo=iTerm2&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-|<h3 align="center">Mobile App Development 📱</h3>|
-|:----------------------------------------:|
-| <p align="center"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Android" width="40" height="40"/>  </p> | <p align="center"></p> |
-
-
 ### [![@vinayakg09's Holopin board](https://holopin.io/api/user/board?user=vinayakg09)](https://holopin.io/@vinayakg09)
 <!--
 **Vinayakg09/Vinayakg09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
