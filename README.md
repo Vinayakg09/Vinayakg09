@@ -1,5 +1,5 @@
 ### 👋 Hi there, I’m Vinayak Gupta
-### :four_leaf_clover:I'm currently learning android development
+### :four_leaf_clover:I'm currently learning cross-platform development
 ### :revolving_hearts:Looking forward to collobrate in dev stuffs 
 ### :mailbox_closed:You can reach me through: vinayakgupta304@gmail.com
 
