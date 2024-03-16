@@ -18,6 +18,11 @@
 
 
 ### [![@vinayakg09's Holopin board](https://holopin.io/api/user/board?user=vinayakg09)](https://holopin.io/@vinayakg09)
+
+<b>Most Used Languages:-</b>
+
+<img width="" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vinayakg09&layout=compact&hide_title=1&card_width=300&bg_color=000000&text_color=FFFFFF" />
+
 <!--
 **Vinayakg09/Vinayakg09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
